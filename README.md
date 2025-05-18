@@ -1,0 +1,2 @@
+# mfelogit
+Estimation of average marginal effects (AME) and average treatment effects (ATE) in fixed effect logit models Use mfelogit With STATA 19
