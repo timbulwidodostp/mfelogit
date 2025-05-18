@@ -1,4 +1,16 @@
-D 'DEA': Data envelopment analysis
+D 'mfelogit': Estimation of average marginal effects (AME) and average treatment effects (ATE) in fixed effect logit models Use mfelogit With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F _eststo.ado
+F _eststo.hlp
+F estadd.ado
+F estadd.hlp
+F estout.ado
+F estout.hlp
+F estpost.ado
+F estpost.hlp
+F eststo.ado
+F eststo.hlp
+F esttab.ado
+F esttab.hlp
+F mfelogit.ado
+F mfelogit.sthlp
